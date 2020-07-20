@@ -55,5 +55,7 @@ Then, place the file in the `p1_navigation/` folder in the DRLND GitHub reposito
 (_For AWS_) If you'd like to train the agent on AWS, you must follow the instructions to [set up X Server](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md), and then download the environment for the **Linux** operating system above.
 
 ### Instalation
+```
 pip install -r requirements.txt
 pip -q install ./python
+```
