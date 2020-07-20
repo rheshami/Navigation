@@ -24,7 +24,7 @@ Episode 500\tAverage Score: 12.41
 Episode 543\tAverage Score: 13.02
 Environment solved in 443 episodes!\tAverage Score: 13.02
 ```
-![result](resources/plot1.png)
+![result](resources/plot1.PNG)
 
 ### Untrained Agent
 ![untrained](resources/untrained.gif)
